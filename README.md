@@ -45,5 +45,13 @@ Use visualization tools like Tableau or Power BI to represent the results of joi
 Integrate with programming languages like Python or Java to demonstrate application-database interactions.
 Expand the dataset for larger-scale join operations and include examples of nested and correlated subqueries for advanced learning.
 
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/e726095c-79f9-44e1-b85d-97cbb120f271)
+
+![Image](https://github.com/user-attachments/assets/03d49eba-9a7c-463b-8eda-4d3e43ba6485)
+
+![Image](https://github.com/user-attachments/assets/bf087531-9df4-458a-8fb4-7ca823ca3da9)
+
+![Image](https://github.com/user-attachments/assets/2c5f8142-7206-441d-8546-b284202b8bc2)
 
 
